@@ -8,7 +8,6 @@ public class TugasPraktikum {
         DaftarBuku buku = new DaftarBuku();
         int pilihan;
         String jawaban;
-       
         do {
             System.out.println("\n========[Perpustakaan]========");
             System.out.println("1. Teknologi" + "\n2. Filsafat" + "\n3. Sejarah" + "\n4. Agama" 
