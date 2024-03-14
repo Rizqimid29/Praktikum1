@@ -9,8 +9,7 @@ public class DaftarBuku {
     public String[][] psikologi;
     public String[][] politik;
     public String[][] fiksi;
-    public String[] sinopsis;
-
+    
 public DaftarBuku() {
     teknologi = new String[][] {{"Sapiens: A Brief History of Humanind", "Yuval Noah Harari", "464", "2014", "Harper", "Terdapat enam spesies manusia penghuni bumi. Dan pada hari ini hanya terdapat satu. Kita, Homo Sapiens"},
     {"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution", "Walter Isaacson", "560", "2014", "Simon & Schuster", "Orang-orang dan penemuan terpenting yang mengarah pada cara kita menggunakan teknologi saat ini"}, 
