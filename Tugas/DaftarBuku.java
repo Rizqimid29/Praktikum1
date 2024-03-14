@@ -9,7 +9,6 @@ public class DaftarBuku {
     public String[][] psikologi;
     public String[][] politik;
     public String[][] fiksi;
-    public String[][] sinopsis; 
 
 public DaftarBuku() {
     teknologi = new String[][] {{"Sapiens: A Brief History of Humanind", "Yuval Noah Harari", "464", "2014", "Harper", "Terdapat enam spesies manusia penghuni bumi. Dan pada hari ini hanya terdapat satu. Kita, Homo Sapiens"},
